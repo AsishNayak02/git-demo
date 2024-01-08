@@ -26,9 +26,9 @@ function App() {
 
       <div>
         <ol>
-          <li>List1</li>
-          <li>List2</li>
-          <li>List3</li>
+          <li>1.List1</li>
+          <li>2.List2</li>
+          <li>3.List3</li>
         </ol>
       </div>
     </div>
