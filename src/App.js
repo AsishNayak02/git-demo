@@ -13,7 +13,7 @@ function App() {
   // }
   return (
 
-    <div>
+    <div className='list-cont'>
       {/* <StyledBtn>Styled component</StyledBtn>
       <StyledBtn variant='outline'>Styled component</StyledBtn>
 
@@ -24,10 +24,18 @@ function App() {
       <div >custom hook :: {count}</div>
       <button onClick = {chng}>Click me</button> 
       <h2>This is a new branch</h2>   */}
-      <div className='list-cont'>
+      <div className='box1'>
       <div  className='box'>
        <List />
       </div>
+      <div className='box'>
+       <List />
+      </div>
+      <div className='box'>
+       <List />
+      </div>
+      </div>
+      <div className='box2'>
       <div className='box'>
        <List />
       </div>

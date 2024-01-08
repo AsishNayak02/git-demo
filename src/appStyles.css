@@ -1,11 +1,14 @@
 .error{
     color: red;
 }
-.list-cont{
-    margin: 0 -5px;
+.list-cont{ 
+    justify-content: space-between;
+    width: 80%;
+    display: flex;
+    margin: auto;
 }
 .box{
     float: left;
-  width: 25%;
-  padding: 0 10px;
+     width: 30%;
+    padding: 0 10px;
 }
