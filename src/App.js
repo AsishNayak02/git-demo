@@ -25,11 +25,11 @@ function App() {
       <h2>This is a new branch</h2>
 
       <div>
-        <ul>
+        <ol>
           <li>List1</li>
           <li>List2</li>
           <li>List3</li>
-        </ul>
+        </ol>
       </div>
     </div>
   );
