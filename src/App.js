@@ -22,6 +22,7 @@ function App() {
       <Inline />
       <div >custom hook :: {count}</div>
       <button onClick = {chng}>Click me</button> 
+      <h2>This is a new branch</h2>
     </div>
   );
 }
