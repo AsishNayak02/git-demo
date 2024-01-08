@@ -23,6 +23,14 @@ function App() {
       <div >custom hook :: {count}</div>
       <button onClick = {chng}>Click me</button> 
       <h2>This is a new branch</h2>
+
+      <div>
+        <ul>
+          <li>List1</li>
+          <li>List2</li>
+          <li>List3</li>
+        </ul>
+      </div>
     </div>
   );
 }
